@@ -22,4 +22,10 @@ JavaFx
 [![6.png](https://i.postimg.cc/Gm7n0m8H/6.png)](https://postimg.cc/v4VNfMvs) 
 
 
-[![7.png](https://i.postimg.cc/R0gQ9qwJ/7.png)](https://postimg.cc/06JJ0kW9)
+[![7.png](https://i.postimg.cc/R0gQ9qwJ/7.png)](https://postimg.cc/06JJ0kW9) 
+
+
+[![Interfaz.png](https://i.postimg.cc/nrZW5Xxj/Interfaz.png)](https://postimg.cc/FdWGks7N) 
+
+
+[![Interfas2.png](https://i.postimg.cc/fLWXrsFW/Interfas2.png)](https://postimg.cc/67Sy8ktF)
